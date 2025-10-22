@@ -197,4 +197,3 @@ WHERE strftime('%Y', DateOfJoining) = '2020';
 
 ## RESULT
 Thus, the SQL queries to implement DML commands have been executed successfully.
-](https://github.com/swathisiva212/EXP-2-dbms)
